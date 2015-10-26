@@ -18,8 +18,7 @@ You may use any appropriate libraries to help, but do not include the library fi
 ## Remarks
 How the auction works:
 
-* For each item there are rounds.
-* If the highest bid from the next round is lower than the highest bid from the previous round, the round is over and the item is sold.
+* One round per item.
 * Bids are done randomly.
 
 ## Requirements
