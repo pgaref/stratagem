@@ -31,4 +31,6 @@ Run `pip install -r requirements.txt` to install it.
 
 Run `python main.py` and follow the instructions to participate to the auction.
 
+## Testing
+
 Run `python -m unittest discover` to see if all tests have passed.
