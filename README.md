@@ -1,4 +1,4 @@
-# Stratagem Engineering Programming Exercise 
+# Stratagem Engineering Programming Exercise [![Build Status](https://travis-ci.org/sammous/stratagem.svg?branch=master)](https://travis-ci.org/sammous/stratagem)
 
 ## Subject
 You have been tasked with building part of a simple online auction system which will allow users to bid on items for sale.
@@ -10,7 +10,7 @@ Provide a bid tracker interface and concrete implementation with the following f
 * Get all the bids for an item
 * Get all the items on which a user has bid
 
-You are not required to implement a GUI (or CLI) or persistent storage. 
+You are not required to implement a GUI (or CLI) or persistent storage.
 Please implement this in Python and include test coverage.
 
 You may use any appropriate libraries to help, but do not include the library files in your submission.
